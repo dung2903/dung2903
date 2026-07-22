@@ -1,6 +1,7 @@
 # Hi, I'm Dung 👋
 
-(See Vietnamese below)
+(Xem Tiếng Việt ở dưới)
+
 I am a Freelance Data Analyst helping organisations turn raw data into focused insights and practical decisions.
 
 ## What I do
